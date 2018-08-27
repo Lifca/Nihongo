@@ -1,2 +1,2 @@
-# Nihongo
-studying note about Japanese
+# Initial page
+
